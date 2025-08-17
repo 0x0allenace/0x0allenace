@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/1E84D10F-5915-4653-8135-026D1D7FF0C9.png" alt="Allen Ace Cybersecurity Analyst Banner" width="100%" />
+</p>
+
 # Hi, I'm Allen 👋  
 
 🛡️ Cybersecurity Analyst | 🤝 Purple Teamer | 🔍 Digital Forensics & Incident Responder | 🖥️ Network Investigator | 👾 Threat Hunter | 👷🏻‍♂️ Reverse Engineer
