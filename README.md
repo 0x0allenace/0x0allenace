@@ -4,7 +4,7 @@
 
 # Hi, I'm Allen 👋  
 
-🛡️ Cybersecurity Analyst | 🤝 Purple Teamer | 🔍 Digital Forensics & Incident Responder | 🖥️ Network Investigator | 👾 Threat Hunter | 👷🏻‍♂️ Reverse Engineer
+🛡️ Cybersecurity Analyst | 🤝 Purple Teaming | 🔍 Digital Forensics & Incident Responce | 🖥️ Network Investigation | 👾 Threat Hunting | 👷🏻‍♂️ Reverse Engineering
 
 ### 📌 About Me
 🔹 1+ years in cybersecurity with a focus on DFIR & threat hunting  
