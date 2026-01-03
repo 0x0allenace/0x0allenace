@@ -7,7 +7,7 @@
 🛡️ Cybersecurity Analyst | 🤝 Purple Teaming | 🔍 Digital Forensics & Incident Responce | 🖥️ Network Investigation | 👾 Threat Hunting | 👷🏻‍♂️ Reverse Engineering
 
 ### 📌 About Me
-🔹 1+ years in cybersecurity with a focus on DFIR & threat hunting  
+🔹 2+ years in cybersecurity with a focus on DFIR & threat hunting  
 🔹 Skilled in Velociraptor, Wireshark, and network forensics  
 🔹 Passionate about sharing technical deep-dives & security write-ups  
 
